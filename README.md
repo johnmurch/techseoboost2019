@@ -9,7 +9,7 @@ Please add a PR and update these! Great way to get use to Github!
 
 * Paul Shapiro, Catalyst - [@fighto](https://twitter.com/fighto) - NLP for SEO - [Github](https://github.com/pshapiro) [@eywu Notes](https://twitter.com/eywu/status/1202311877310726145) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202311081105985538)
 * David Sottimano, Kephraseology - [@dsottimano](https://twitter.com/dsottimano) - [Slides](https://www.slideshare.net/dsottimano/techseo-boost-apps-script-for-seos) [@eywu Notes](https://twitter.com/eywu/status/1202318061816160257) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202317934682607617)
-* When You need Custom SEO Tools - [@ClaudiaFaceoff](https://twitter.com/ClaudiaFaceoff) - [@Derek_Perkins](https://twitter.com/Derek_Perkins) - [@jsilton](https://twitter.com/jsilton) - [@jroakes](https://twitter.com/jroakes) - [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202330709374963719)
+* [@ClaudiaFaceoff](https://twitter.com/ClaudiaFaceoff) - [@Derek_Perkins](https://twitter.com/Derek_Perkins) - [@jsilton](https://twitter.com/jsilton) - [@jroakes](https://twitter.com/jroakes) - When You need Custom SEO Tools - [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202330709374963719)
 * Ricardo Baeza-Yates, NTENT - [@PolarBearby](https://twitter.com/PolarBearby) [@eywu Notes](https://twitter.com/eywu/status/1202346565337305088) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202346370323144711)
 
 
@@ -21,6 +21,6 @@ Please add a PR and update these! Great way to get use to Github!
 * Tobias Schwarz, Audisto - The Ultimate Pagination for SEO [@eywu Notes](https://twitter.com/eywu/status/1202630273902534656) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202630176775065600)
 * Dawn Anderson, Bertey - [@dawnieando](https://twitter.com/dawnieando) - The User is The Query: The Rise of Predictive Proactive Search [@eywu Notes](https://twitter.com/eywu/status/1202639873078894594) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202639541074644992)
 * Micah Fisher-Kirshner - Turn/River Capital - [@micahfk](https://twitter.com/micahfk) - Ranking Factors Going Causal: Regressions, Machine Learning, and Neural Networks - [@eywu Notes](https://twitter.com/eywu/status/1202672790073233408) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202671976948613120)
-* Advanced Analytics for SEO - [@dan_shure](https://twitter.com/dan_shure) [@ajavuu](https://twitter.com/ajavuu) [@jgianoglio](https://twitter.com/jgianoglio) [@AlexisKSanders](https://twitter.com/AlexisKSanders)
+* [@dan_shure](https://twitter.com/dan_shure) [@ajavuu](https://twitter.com/ajavuu) [@jgianoglio](https://twitter.com/jgianoglio) [@AlexisKSanders](https://twitter.com/AlexisKSanders) - Advanced Analytics for SEO
 * Jori Ford, G2 [@chicagoseopro](https://twitter.com/chicagoseopro) - Crawl Budget Conqueror - Taking Control of Your Crawl Budget
 * Gareth Simpson [@SimpsonGareth](https://twitter.com/SimpsonGareth) Technical Link Building
