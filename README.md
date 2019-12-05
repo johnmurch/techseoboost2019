@@ -7,7 +7,7 @@ Please add a PR and update these! Great way to get use to Github!
 
 ## Day 1  
 
-* Paul Shapiro, Catalyst - [@fighto](https://twitter.com/fighto) - NLP for SEO - [Github](https://github.com/pshapiro) [@eywu Notes](https://twitter.com/eywu/status/1202311877310726145) [@AlexisKSanders Notes] (https://twitter.com/AlexisKSanders/status/1202311081105985538)
+* Paul Shapiro, Catalyst - [@fighto](https://twitter.com/fighto) - NLP for SEO - [Github](https://github.com/pshapiro) [@eywu Notes](https://twitter.com/eywu/status/1202311877310726145) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202311081105985538)
 * David Sottimano, Kephraseology - [@dsottimano](https://twitter.com/dsottimano) - [Slides](https://www.slideshare.net/dsottimano/techseo-boost-apps-script-for-seos) [@eywu Notes](https://twitter.com/eywu/status/1202318061816160257) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202317934682607617)
 * When You need Custom SEO Tools - [@ClaudiaFaceoff](https://twitter.com/ClaudiaFaceoff) - [@Derek_Perkins](https://twitter.com/Derek_Perkins) - [@jsilton](https://twitter.com/jsilton) - [@jroakes](https://twitter.com/jroakes) - [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202330709374963719)
 * Ricardo Baeza-Yates, NTENT - [@PolarBearby](https://twitter.com/PolarBearby) [@eywu Notes](https://twitter.com/eywu/status/1202346565337305088) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202346370323144711)
