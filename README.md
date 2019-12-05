@@ -21,6 +21,6 @@ Please add a PR and update these! Great way to get use to Github!
 * Tobias Schwarz, Audisto - The Ultimate Pagination for SEO [@eywu Notes](https://twitter.com/eywu/status/1202630273902534656) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202630176775065600)
 * Dawn Anderson, Bertey - [@dawnieando](https://twitter.com/dawnieando) - The User is The Query: The Rise of Predictive Proactive Search [@eywu Notes](https://twitter.com/eywu/status/1202639873078894594) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202639541074644992)
 * Micah Fisher-Kirshner - Turn/River Capital - [@micahfk](https://twitter.com/micahfk) - Ranking Factors Going Causal: Regressions, Machine Learning, and Neural Networks
-* Advanced Analytics for SEO -
+* Advanced Analytics for SEO - [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202671976948613120)
 * Crawl Budget Conqueror - Taking Control of Your Crawl Budget
 * Technical Link Building
