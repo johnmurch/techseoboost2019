@@ -19,7 +19,7 @@ Please add a PR and update these! Great way to get use to Github!
 * Frank Vitovitch, Botify - [@FrankieVSEO](https://twitter.com/FrankieVSEO) - Faceted Nav: (Almost) Everyone Is Doing it Wrong [@eywu Notes](https://twitter.com/eywu/status/1202611777952989184)
 * Vincent Terrasi, OnCrawl - [@VincentTerrasi](https://twitter.com/VincentTerrasi) - Generating Qualitative Content with GPT-2 in All Languages - [@eywu Notes](https://twitter.com/eywu/status/1202625066208518144) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202624622459523072)
 * Tobias Schwarz, Audisto - The Ultimate Pagination for SEO [@eywu Notes](https://twitter.com/eywu/status/1202630273902534656) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202630176775065600)
-* Dawn Anderson, Bertey - [@dawnieando](https://twitter.com/dawnieando) - The User is The Query: The Rise of Predictive Proactive Search
+* Dawn Anderson, Bertey - [@dawnieando](https://twitter.com/dawnieando) - The User is The Query: The Rise of Predictive Proactive Search [@eywu Notes](https://twitter.com/eywu/status/1202639873078894594) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202639541074644992)
 * Micah Fisher-Kirshner - Turn/River Capital - [@micahfk](https://twitter.com/micahfk) - Ranking Factors Going Causal: Regressions, Machine Learning, and Neural Networks
 * Advanced Analytics for SEO -
 * Crawl Budget Conqueror - Taking Control of Your Crawl Budget
