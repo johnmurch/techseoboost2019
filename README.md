@@ -3,8 +3,6 @@ Aggregating and dumping of Notes and Links from Event
 
 Please add a PR and update these! Great way to get use to Github!
 
-## WORK IN PROGRESS!!! 👷‍♂️
-
 ## Day 1  
 
 * Paul Shapiro, Catalyst - [@fighto](https://twitter.com/fighto) - NLP for SEO - [Github](https://github.com/pshapiro) [@eywu Notes](https://twitter.com/eywu/status/1202311877310726145) [@AlexisKSanders Notes](https://twitter.com/AlexisKSanders/status/1202311081105985538)
